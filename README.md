@@ -1,3 +1,12 @@
+# Reflection
+Below is the ReadMe for the project itself, this section is simply a reflection on what I did/learned during this project.
+This was my second time data modeling with postgresql inside of python.
+I mainly learned how to model data based on multiple input data files while creating a data schema.
+previously I just needed to make a data model for one input file.
+I laern a lot of transoformation within this project while working through the jupyter notebook and the etl script.
+I also learned more about incorporating unit tests into my code to help identify answers to possible questions.
+Overall I feel more comfortable in my ability to model data with one or more input data files and imputing data to create fact tables.
+
 ### Purpose
 This database exists to give the startup Sparkify the ability to query their datasets.
 Their data was original contained in json files which cannot be searched/queried easiy.
